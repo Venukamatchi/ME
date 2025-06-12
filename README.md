@@ -129,23 +129,23 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/venukamatchi" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/venukamatchi-p/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
       </a>
     </td>
     <td align="center">
-      <a href="https://medium.com/@venukamatchi" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+      <a href="https://medium.com/@venukamatchi.p" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/venukamatchi" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/vex.man_/%3Flocale%3Dzh_CN%26hl%3Den&ved=2ahUKEwjlj6q2meyNAxXR1jgGHd6XHG4QFnoECCUQAQ&usg=AOvVaw1mxbgTDPJ9fVAYp-uzV1ox" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
       </a>
     </td>
     <td align="center">
-      <a href="https://dev.to/venukamatchi" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+      <a href="https://life-is-worseportfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
       </a>
     </td>
   </tr>
